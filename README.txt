@@ -1,1 +1,1 @@
-add readme
+reduce readme
